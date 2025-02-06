@@ -1,0 +1,6 @@
+[submodule "ias-libtool"]
+	path = ias-libtool
+	url = https://github.com/Breitbandmessung/ias-libtool.git
+[submodule "nopoll"]
+	path = nopoll
+	url = https://github.com/zafaco/nopoll.git

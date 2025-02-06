@@ -1,0 +1,19 @@
+{
+    "ip_bindings": {
+        "v4": "",
+        "v6": ""
+    },
+    "port_bindings": {
+        "tcp": 80,
+        "tcp_tls": 443,
+        "tcp_traceroute": 8080,
+        "tcp_traceroute_tls": 8443,
+        "udp": 80
+    },
+    "tls": {
+        "cipher_suites_1_2": "",
+        "cipher_suites_1_3": ""
+    },
+    "hostname": "example.com",
+    "tcp_timeout": "25"
+}
